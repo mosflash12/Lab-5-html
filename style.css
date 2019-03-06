@@ -1,11 +1,15 @@
 p {
-  color: #0000ff;
+
   text-decoration: line-through;
 }
 
 h2{
   text-decoration: underline;
 
+}
+
+h2,p{
+  color: darkgreen;
 }
 
 h1{
@@ -17,6 +21,15 @@ h1{
   border-style:dashed;
   border-color: red;
 
+}
+
+#intro{
+  border-width: 1px;
+  border-style:solid;
+  border-color:black;
+}
+.spotlight{
+  background-color: #fefe22;
 }
 
 body{
