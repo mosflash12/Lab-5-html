@@ -11,6 +11,12 @@ h2{
 h1{
   color: #008000;
   text-transform: uppercase;
+  margin: 20px;
+  padding: 40px;
+  border-width: 5px;
+  border-style:dashed;
+  border-color: red;
+
 }
 
 body{
